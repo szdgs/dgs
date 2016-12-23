@@ -1,1 +1,19 @@
-#
+<?xml version="1.0" encoding="utf-8" ?> 
+ <config>
+  <version>1.00</version> 
+  <isForces>0</isForces> 
+ <Urls>
+  <Url>xz.clbfwq.com</Url> 
+  <Url>xz.yezdh.nz</Url> 
+  <Url>xz.ybdmi.es</Url> 
+  </Urls>
+ <DownloadUrls>
+  <DownloadUrl>https://sourceforge.net/projects/firmware/files/firmware_t4.xml/download</DownloadUrl> 
+  <DownloadUrl>http://res.xunol.es:8080/firmware/firmware_t4.xml</DownloadUrl> 
+  <DownloadUrl>https://raw.githubusercontent.com/szdgs/dgs/master/firmware_t4.xml</DownloadUrl> 
+  </DownloadUrls>
+  <Hosts>
+  <Host>127.0.0.1 localhost</Host> 
+  <Host>14.215.177.38 www.baidu.com</Host> 
+  </Hosts>
+  </config>
